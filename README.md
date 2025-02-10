@@ -77,5 +77,4 @@ sudo rmmod kmodule
 - Ensure that the device file and permissions are properly set before running the utility program.
 - Running `./writer` in a different terminal helps confirm the blocking behavior.
 
-This guide should help you set up and test the kernel module efficiently. 🚀
 
