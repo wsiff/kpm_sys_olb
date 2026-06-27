@@ -1,4 +1,4 @@
-# Kprobe-based Syscall Logger / Blocker
+# Kprobe based Syscall Logger / Blocker
 
 A Linux kernel module that uses **kprobes** (for logging) and **kretprobes** (for blocking) to monitor and control the `open`, `read`, and `write` system calls, plus a userspace utility to control it at runtime via ioctl.
 
